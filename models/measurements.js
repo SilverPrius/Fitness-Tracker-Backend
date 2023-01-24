@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const measurementSchema = new mongoose.Schema({
-   description: String,
+   date: String,
    weight: Number,
    bodyFat: Number,
    bmi: Number,

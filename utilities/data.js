@@ -1,6 +1,6 @@
 const todoData = [
     {
-        description: 'April 2022',
+        date: 'April 2022',
         weight: 7,
         bodyFat: 653,
         bmi: 356,
@@ -19,7 +19,7 @@ const todoData = [
         midCalf: 454
     },
     {
-        description: 'June 2022',
+        date: 'June 2022',
         weight: 444,
         bodyFat: 444,
         bmi: 444,
@@ -38,7 +38,7 @@ const todoData = [
         midCalf: 444
     },
     {
-        description: 'July 2022',
+        date: 'July 2022',
         weight: 88,
         bodyFat: 88,
         bmi: 88,
