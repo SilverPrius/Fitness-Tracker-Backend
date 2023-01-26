@@ -1,4 +1,4 @@
-const todoData = [
+const measurementData = [
     {
         date: '04-01-2022',
         weight: 7,
@@ -58,4 +58,4 @@ const todoData = [
     }
 ]
 
-module.exports = todoData;
+module.exports = measurementData;
